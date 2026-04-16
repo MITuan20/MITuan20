@@ -1,8 +1,6 @@
 # Hi there! I'm Tuấn (MITuan20) 👋
 
 <p align="center">
-  <img src="https://byvn.net/SMu1" alt="Header Image" />
-  <br>
   <img src="https://komarev.com/ghpvc/?username=MITuan20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
