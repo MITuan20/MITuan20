@@ -1,20 +1,21 @@
 # Hi there! I'm Tuấn (MITuan20) 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UI/UX%20Developer%20%26%20AI%20Researcher&fontSize=40&animation=fadeIn" />
+  <img src="https://byvn.net/SMu1" alt="Header Image" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=MITuan20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🚀 Giới thiệu về tôi
-Tôi là một sinh viên năm cuối chuyên ngành CNTT định hướng thị trường Nhật Bản đam mê trái bóng.
+## 🚀 About Me
+I am a senior IT student focused on the Japanese market with a strong passion for football and technology.
 
-- 🔬 **Nghiên cứu:** Tập trung vào **Graph Neural Networks (GNN)** ứng dụng trong việc phát hiện lỗi mã nguồn (Bug Detection).
-- 🎓 **Hiện tại:** Đang thực hiện đồ án tốt nghiệp về hệ thống phát hiện lỗi dựa trên đồ thị luồng điều khiển (Control Flow Graph).
-- 🎨 **Sáng tạo:** Luôn tìm cách tối ưu hóa trải nghiệm người dùng trong các hệ thống AR và Web hiện đại.
-- 🇯🇵 **Ngôn ngữ:** Đang học tiếng Nhật (Mục tiêu JLPT N2).
+- 🔬 **Research:** Focusing on **Graph Neural Networks (GNN)** applied to Source Code Bug Detection.
+- 🎓 **Current Status:** Working on my graduation thesis regarding defect detection systems based on **Control Flow Graphs (CFG)**.
+- 🇯🇵 **Language:** Achieved **JLPT N3** certification.
 
 ---
 
-## 🛠 Kỹ năng & Công cụ
+## 🛠 Skills & Tools
 
 ### 🌐 UI/UX & Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,7 +36,7 @@ Tôi là một sinh viên năm cuối chuyên ngành CNTT định hướng thị
 
 ---
 
-## 📈 Thống kê GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MITuan20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -44,13 +45,14 @@ Tôi là một sinh viên năm cuối chuyên ngành CNTT định hướng thị
 
 ---
 
-## 🐍 Hoạt động của tôi
-![Snake animation](https://github.com/MITuan20/MITuan20/blob/output/github-contribution-grid-snake.svg)
+## 🐍 My Activities
+![Snake animation](https://raw.githubusercontent.com/MITuan20/MITuan20/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Liên hệ với tôi
-- 🏢 **Khu vực:** Nam Định / Hà Nội
-- 📧 **Email:** [tuanmt2912@gmail.com]
+## 📫 Connect with me
+- 🏢 **Location:** Nam Định / Hà Nội, Vietnam
+- 📧 **Email:** [tuanmt2912@gmail.com](mailto:tuanmt2912@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/mituan201/](https://www.linkedin.com/in/mituan201/)
 
-*"Biến cấu trúc dữ liệu phức tạp thành trải nghiệm trực quan đơn giản."*
+*"Turning complex data structures into intuitive user experiences."*
