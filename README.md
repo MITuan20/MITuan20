@@ -34,14 +34,6 @@ I am a senior IT student focused on the Japanese market with a strong passion fo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MITuan20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITuan20&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🐍 My Activities
 ![Snake animation](https://raw.githubusercontent.com/MITuan20/MITuan20/output/github-contribution-grid-snake.svg)
